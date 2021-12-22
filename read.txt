@@ -1,0 +1,7 @@
+react-router-dom v6 has some changes. Please go through these links to have a better idea:
+1. https://stackoverflow.com/questions/63124161/attempted-import-error-switch-is-not-exported-from-react-router-dom
+2. https://reacttraining.com/blog/react-router-v6-pre/
+
+Color pallete used for the current project: 
+
+https://colorhunt.co/palette/fef5edd3e4cdadc2a999a799
